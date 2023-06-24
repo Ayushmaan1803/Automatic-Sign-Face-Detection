@@ -30,16 +30,37 @@ There are four use cases in checking the documents-
 
 
 1)1st place is face image & 2nd place is signature image: 
+
 In this case no swapping is needed as documents are uploaded at proper places.
+
+![2](https://github.com/SHUDDHASHIL21/Automatic-Sign-Face-Detection/assets/74821496/20a42c7a-f064-4175-821b-da73e6cce164)
+
+
  
 2)1st place is signature image & 2nd place is face image: 
+
 In this case swapping is needed and the program will automatically swap the images by detecting the images using the AI model.
-	
+
+![1](https://github.com/SHUDDHASHIL21/Automatic-Sign-Face-Detection/assets/74821496/ccb355a0-c741-4ff7-87cb-e33d537dd8b0) 
+
+
+ 
 3)Both are face images:
+
 In this case the program will print ‘Both are face images , please upload correct documents!!!’ 
+
+
+![3](https://github.com/SHUDDHASHIL21/Automatic-Sign-Face-Detection/assets/74821496/f5c9a38d-a67f-4e75-a611-fc0c26a23640)
+
+
  
 4)Both are signature images:
+
 In this case the program will print ‘Both are signatures, please upload correct documents!!!’
+
+
+![4](https://github.com/SHUDDHASHIL21/Automatic-Sign-Face-Detection/assets/74821496/ec4d3cf1-eff7-4aeb-8d52-3fb6167e6bae)
+
  
 
 ## Authors
