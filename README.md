@@ -5,6 +5,11 @@ It also seeks to support trainees from poor backgrounds who possess below-averag
 
 
 
+
+## Demo : https://testface22.streamlit.app/ 
+
+
+
 ## Installation
 
 Step1: Clone the repository.
@@ -41,9 +46,9 @@ In this case no swapping is needed as documents are uploaded at proper places.
 
 In this case swapping is needed and the program will automatically swap the images by detecting the images using the AI model.
 
-![1](https://github.com/SHUDDHASHIL21/Automatic-Sign-Face-Detection/assets/74821496/ccb355a0-c741-4ff7-87cb-e33d537dd8b0) 
 
 
+<img src="https://github.com/SHUDDHASHIL21/Automatic-Sign-Face-Detection/assets/74821496/ccb355a0-c741-4ff7-87cb-e33d537dd8b0" width="300" height="370">
  
 3)Both are face images:
 
@@ -61,6 +66,7 @@ In this case the program will print ‘Both are signatures, please upload correc
 
 ![4](https://github.com/SHUDDHASHIL21/Automatic-Sign-Face-Detection/assets/74821496/ec4d3cf1-eff7-4aeb-8d52-3fb6167e6bae)
 
+
  
 
 ## Authors
@@ -72,3 +78,6 @@ In this case the program will print ‘Both are signatures, please upload correc
 - [@ Ayushmaan1803](https://github.com/Ayushmaan1803)
 
 - [@sayantanmaji10](https://github.com/sayantanmaji10)
+
+
+
