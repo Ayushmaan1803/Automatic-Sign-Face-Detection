@@ -1,4 +1,3 @@
-
 # Automatic-Sign-Face-Detection
 
 The purpose of the project in this use case is threefold. First and foremost, it aims to address the issue of faulty admit cards that arises due to trainees mistakenly uploading their signatures instead of their photos. This problem negatively impacts the trainees, as it can lead to confusion and potential complications during the examination process. By developing a system that utilizes automatic analysis of uploaded documents, the project aims to rectify this error by identifying and correcting the misplaced documents. This would ensure that the correct photos are uploaded in place of the signatures, eliminating the occurrence of faulty admit cards.
@@ -52,7 +51,3 @@ In this case the program will print ‘Both are signatures, please upload correc
 - [@ Ayushmaan1803](https://github.com/Ayushmaan1803)
 
 - [@sayantanmaji10](https://github.com/sayantanmaji10)
-
-
-
-
